@@ -14,11 +14,7 @@ This repository contains source code and solutions for laboratory sessions focus
 ### Available Projects
 
 #### [Lab 01: ARM Assembly Programming](./lab01)
-* **Focus:** Core ARM assembly concepts, control flow optimization, and bitwise operations.
-* **Key Topics:**
-    * **CPU Flags:** Manual manipulation of Carry, Overflow, Negative, and Zero flags via register operations.
-    * **Conditional Execution:** Comparing traditional branching (loops) vs. the Cortex-M3 IT (If-Then) instruction block.
-    * **Bitwise Logic:** Parity bit calculation using recursive XOR-shift algorithms.
+#### [Lab 02: ARM Assembly Programming](./lab02)
 
 ---
 
