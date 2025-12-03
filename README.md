@@ -1,14 +1,9 @@
 # Computer Architectures - Laboratory Repository
 
 ## Course Information
-**Course:** Computer Architectures (02LSEYG / 02GOLOV)
+**Course:** Computer Architectures
 **Target Architecture:** ARM Cortex-M3 (NXP LPC17xx)
 **Development Environment:** Keil uVision 5
-
-## Contributors
-*Solutions developed in collaboration by:*
-* **Mohammad Tohidnia** (s355479)
-* **Yashar Kalantari** (s357996)
 
 ---
 
