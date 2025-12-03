@@ -1,9 +1,9 @@
 # Computer Architectures - Laboratory Repository
 
 ## Course Information
-**Course:** Computer Architectures
-**Target Architecture:** ARM Cortex-M3 (NXP LPC17xx)
-**Development Environment:** Keil uVision 5
+* **Course:** Computer Architectures
+* **Target Architecture:** ARM Cortex-M3 (NXP LPC17xx)
+* **Development Environment:** Keil uVision 5
 
 ---
 
